@@ -1,0 +1,23 @@
+* {
+    font-family: 'JetBrains Mono', sans-serif;
+}
+
+h1,
+a {
+    text-align: center;
+}
+
+a,
+a:visited {
+    color: #000;
+}
+
+nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.page-width {
+    padding: 0 5rem;
+}
